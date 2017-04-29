@@ -1,0 +1,19 @@
+1. T-sne!! good one!
+
+https://www.analyticsvidhya.com/blog/2017/01/t-sne-implementation-r-python/
+
+Following are a few dimensionality reduction algorithms that you can check out:
+
+    PCA (linear)
+    t-SNE (non-parametric/ nonlinear)
+    Sammon mapping (nonlinear)
+    Isomap (nonlinear)
+    LLE (nonlinear)
+    CCA (nonlinear)
+    SNE (nonlinear)
+    MVU (nonlinear)
+    Laplacian Eigenmaps (nonlinear)
+
+2. http://xgboost.readthedocs.io/en/latest/R-package/xgboostPresentation.html
+
+3. http://topepo.github.io/caret/data-splitting.html
