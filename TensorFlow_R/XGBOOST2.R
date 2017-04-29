@@ -1,7 +1,7 @@
 rm(list=ls(all=TRUE))
 #https://www.r-bloggers.com/an-introduction-to-xgboost-r-package/
 #https://github.com/sachinruk/xgboost_tut/blob/master/xg_tut.R
-https://www.youtube.com/watch?v=87xRqEAx6CY
+#https://www.youtube.com/watch?v=87xRqEAx6CY
 
 install.packages("DiagrammeR")
 library(DiagrammeR)
